@@ -12,6 +12,9 @@ The key goal of this analysis is to improve profitability by answering the follo
 - 🏪 Evaluate inventory turnover to reduce unsold stock and holding costs.
 - ⚖️ Compare profitability between top-performing and low-performing vendors.
 
+<img width="1204" alt="Screenshot 2025-07-07 at 6 26 45 PM" src="https://github.com/user-attachments/assets/4af74986-ed8a-4164-baf1-27be27e4493f" />
+
+
 ## 📌 Key Findings
 
 - **$2.71M worth** of inventory remains unsold due to low turnover.
